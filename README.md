@@ -12,10 +12,6 @@ This Python script converts a normal image into a **cartoon-style image** by com
 
 ---
 
-## 📂 Input
-
-The script loads the image from:
-
 ## bad demo
 - original
 
