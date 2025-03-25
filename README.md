@@ -4,7 +4,7 @@ This Python script converts a normal image into a **cartoon-style image** by com
 
 ---
 
-## ✨ Features
+## Features
 
 - **Bold edges**: Detected using adaptive thresholding on blurred grayscale images.
 - **Flat color regions**: Created using k-means clustering to simulate a hand-drawn feel.
